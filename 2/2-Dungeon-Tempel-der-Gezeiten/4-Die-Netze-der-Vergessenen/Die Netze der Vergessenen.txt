@@ -1,0 +1,31 @@
+Die Netze der Vergessenen
+🌊 Raumbeschreibung
+
+Geisterhafte Fischernetze treiben reglos im Wasser.
+Sobald jemand hineinschwimmt, ziehen sie sich langsam zu.
+
+In den Knoten glimmen schwache, verlorene Lichter.
+
+🧩 Mechanik & Lösung
+
+Kämpfen → Netze ziehen sich enger (Restrained).
+
+Lösung:
+Jeder Knoten löst sich, wenn jemand laut den Namen von etwas nennt,
+das im Meer verloren geht.
+
+(z.B. „Schiffe“, „Namen“, „Träume“, „Zeit“, „Heimat“)
+
+📜 Rätseltext
+
+„Was das Meer nimmt,
+behält es nicht.
+Sprich,
+was verloren ging –
+und werde frei.“
+
+🎨 Bildbeschreibung
+
+Transparente geisterhafte Fischernetze schwebend im dunklen Ozean,
+schwaches blaues Leuchten in den Knoten, unheimliche ruhige Atmosphäre,
+Nebel im Wasser, düstere Fantasy-Unterwasser-Szene

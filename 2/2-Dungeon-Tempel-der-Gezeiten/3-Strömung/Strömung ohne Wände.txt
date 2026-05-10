@@ -1,0 +1,36 @@
+Strömung ohne Wände & Wandelnder Kelpwald (kombiniert)
+🌊 Raumbeschreibung
+
+Ein weiter Raum – doch keine Wände sind sichtbar.
+Dichte Strömungen schieben euch unsichtbar zur Seite.
+Ein schwebender Wald aus riesigem Kelp bewegt sich langsam, als würde er denken.
+Schatten verschieben sich. Wege verschwinden.
+
+🧩 Mechanik & Lösung
+
+Wer einfach losschwimmt, kehrt an den Ausgang zurück.
+
+Hinweise:
+
+Trümmer treiben in einer bestimmten Richtung
+
+Luftblasen steigen schräg auf
+
+Kelp neigt sich minimal
+
+Lösung:
+
+Beobachten (Perception DC 13)
+
+Gegen Strömung diagonal bewegen
+
+Markierungen setzen
+
+Mit der Bewegung gehen, nicht gegen sie
+
+📜 Rätseltext (in schwebenden Steintafeln)
+
+„Augen lügen.
+Strömung spricht.
+Wer stur will siegen,
+findet den Ausweg nicht.“

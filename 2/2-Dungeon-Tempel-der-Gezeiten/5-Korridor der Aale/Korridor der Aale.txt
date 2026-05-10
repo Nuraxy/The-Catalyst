@@ -1,0 +1,27 @@
+Der Korridor der Leuchtenden Aale
+🌊 Raumbeschreibung
+
+Ein schmaler Gang, erleuchtet von Dutzenden biolumineszierenden Aalen.
+Sie schweben ruhig im Wasser und pulsieren sanft.
+Bei abrupten Bewegungen flackert das Licht.
+
+🧩 Mechanik & Lösung
+
+Hektik → CON Save DC 12 oder 1d6 Blitzschaden
+
+Lautes Zaubern → Licht erlischt → Dunkelheit
+
+Lösung:
+
+Langsame Bewegung
+
+Ruhige Kommunikation
+
+Lichtquellen reduzieren
+
+📜 Rätseltext
+
+„Das Meer liebt Stille.
+Wer tobt, wird geblendet.
+Wer flüstert,
+findet den Weg.“

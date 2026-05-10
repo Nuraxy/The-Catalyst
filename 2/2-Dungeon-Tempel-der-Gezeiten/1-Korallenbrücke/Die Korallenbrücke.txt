@@ -1,0 +1,32 @@
+Die Korallenbrücke
+🌊 Raumbeschreibung (Vorlesen)
+
+Vor euch spannt sich eine natürliche Brücke aus lebender Koralle über einen dunklen Abgrund.
+Das Riff pulsiert langsam im Rhythmus der Strömung. Feine Risse durchziehen die Oberfläche, und bei jeder stärkeren Bewegung splittern winzige, messerscharfe Stücke ins Wasser.
+
+Unter euch: nur Schwärze.
+
+🧩 Mechanik & Lösung
+
+Schnelle Bewegung → DEX Save (DC 13), 1d6 Schnittschaden
+
+Gewalt oder Feuer → Brücke wird instabil
+
+3 Fehltritte → Teil bricht ein (keine Instant-Death, aber gefährlicher Aufstieg)
+
+Lösung:
+
+Langsame Bewegung
+
+Gewicht verteilen (Seile, einzeln gehen)
+
+Koralle füttern (Rationen, Blutstropfen, Pflanzenmaterial)
+
+Beruhigende Magie / Naturbezug erleichtert es
+
+📜 Rätseltext (in Korallen eingewachsen)
+
+„Was lebt, zerbricht unter Zorn.
+Was nährt, wird getragen.
+Tritt wie die Flut –
+nicht wie der Sturm.“

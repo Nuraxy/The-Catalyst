@@ -1,0 +1,33 @@
+Die Stumme Glocke
+🌊 Raumbeschreibung
+
+Eine gewaltige bronzene Glocke hängt mitten in einer vollständig gefluteten Halle.
+Kein Geräusch durchdringt das Wasser.
+Die Wände sind glatt – bis auf eine massive Steintür ohne Griff.
+
+Beim Anschlagen der Glocke breiten sich sichtbare Druckwellen im Wasser aus.
+
+🧩 Mechanik & Lösung
+
+Die Tür reagiert auf Vibration, nicht Klang.
+
+Zu schwach → nichts passiert
+
+Stark genug → Tür öffnet sich
+
+Extrem stark → leichte Steinsplitter fallen (1d4 Schaden)
+
+Lösung:
+
+Mehrere Charaktere schlagen gleichzeitig
+
+Thunderwave / Erschütterung
+
+Kreative Resonanz (Schild + Hammer etc.)
+
+📜 Rätseltext (in Bronze graviert)
+
+„Nicht jedes Läuten will gehört werden.
+Nicht jedes Wort braucht Luft.
+Lass die Tiefe fühlen,
+nicht lauschen.“
